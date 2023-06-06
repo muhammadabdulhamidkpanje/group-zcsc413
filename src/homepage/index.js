@@ -22,7 +22,7 @@ const Homepage = () => {
                                   photo:"/abdulhamid.jpg",},
                                  {name:"ALIYU ZAKARIYA ABBAH",
                                   matNo:"U18/FNS/CSC/1077",
-                                  photo:"/third.jpg",},]
+                                  photo:"/third.jpeg",},]
   return (
     <section className=" mt-16 ml-8 mr-8 pt-2 h-1/2 ">
       <section className="flex flex-col sm:flex-row  rounded-md border-3 border-wheat bg-zinc-300 ">
