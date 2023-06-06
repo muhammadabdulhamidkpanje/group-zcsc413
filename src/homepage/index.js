@@ -20,9 +20,9 @@ const Homepage = () => {
                                  {name:"Muhammad Abdulhamid Kpanje",
                                   matNo:"U18/FNS/CSC/1075",
                                   photo:"/abdulhamid.jpg",},
-                                 {name:"",
-                                  matNo:"",
-                                  photo:"",},]
+                                 {name:"ALIYU ZAKARIYA ABBAH",
+                                  matNo:"U18/FNS/CSC/1077",
+                                  photo:"/third.jpg",},]
   return (
     <section className=" mt-16 ml-8 mr-8 pt-2 h-1/2 ">
       <section className="flex flex-col sm:flex-row  rounded-md border-3 border-wheat bg-zinc-300 ">
@@ -76,7 +76,7 @@ const Homepage = () => {
                                         bg-white rounded-lg shadow-xl  mt-4 w-100 mx-2">
         
         <div class="h-64 w-auto md:w-1/2">
-          <img class="inset-0 h-full w-full object-cover object-center" src="card.img" />
+          <img class="inset-0 h-full w-full object-cover object-center" src="/COVER.png" />
         </div>
         
         <div class="w-full py-4 px-6 text-gray-800 flex flex-col justify-between">
@@ -90,7 +90,7 @@ const Homepage = () => {
           </h3>
           <div className="border-top-4 flex items-center justify-evenly">
           <a
-        href="/assignment.pdf"
+        href="/CHAPTER2.docx"
         download="A term paper on blockchain technology"
         target="_blank"
         rel="noreferrer"
