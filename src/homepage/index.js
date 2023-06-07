@@ -96,7 +96,16 @@ const Homepage = () => {
         rel="noreferrer"
       >
 
-            <button className=" bg-rose-100 rounded py-2 px-5">Download </button>
+            <button className=" bg-rose-100 rounded py-2 px-5">Download term paper </button>
+            </a>
+            <a
+        href="/blockchain presentation.pptx"
+        download="A term paper on blockchain technology"
+        target="_blank"
+        rel="noreferrer"
+      >
+
+            <button className=" bg-rose-100 rounded py-2 px-5">Download presentation</button>
             </a>
             <Link to="/assignment">
             <button className=" bg-rose-100 rounded py-2 px-5"> Read more </button>
