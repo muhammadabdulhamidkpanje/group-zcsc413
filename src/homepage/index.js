@@ -90,7 +90,7 @@ const Homepage = () => {
           </h3>
           <div className="border-top-4 flex items-center justify-evenly">
           <a
-        href="/CHAPTER2.docx"
+        href="/BLOCKCHAIN-TERM PAPER1.docx"
         download="A term paper on blockchain technology"
         target="_blank"
         rel="noreferrer"
